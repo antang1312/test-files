@@ -1,0 +1,1935 @@
+---
+archive:
+  hash: 15c2afce45bbe738804448693e2a905114f66caf78b13c76933f6a1b79a6d7e3
+  name: dlp_8_windows-engine-1593006445.zip
+  size: 93515738
+  url: dlp_8_windows-engine-1593006445.zip
+content_type: engine
+db_api: 2
+engine:
+  id: dlp_8_windows
+  name: 'Proactive DLP'
+  type: dlp
+files:
+  -
+    hash: 3b79e0cbdb6a8c9d8399517778c52be73f59786f06e6876b6389cd9f7cf399b4
+    name: crossdata.dll
+    size: 494592
+  -
+    hash: ac6ad29b942d3821518d0c921e44b82db5f88a17a83ec5735dfd20da16efa5b3
+    name: dtengine64.dll
+    size: 8727824
+  -
+    hash: b003cc904f31dd0dece471cbec762bc5ad5053199739a1f6aa3e6915ba5bdd20
+    name: nethost.dll
+    size: 153168
+  -
+    hash: c48f7c8bcac56a2eabd0b96a0a25624480f6ac7a4a2531d900898ad3976b3d2e
+    name: oms_engine.dll
+    size: 660480
+  -
+    hash: 6f4f078fc5eb037d4c28c023db1b8a001bbd7743341c0c2159143db83cf4cd90
+    name: org.sw.demo.bzip2-1.0.8.dll
+    size: 71168
+  -
+    hash: 9a8775b059e5786e76a006b3a3e0cdc51f9cdf425316de88758964a73d621c80
+    name: org.sw.demo.danbloomberg.leptonica-1.80.0.dll
+    size: 2630144
+  -
+    hash: 75643ca45ff2b82316929151a36c5137c4a4ed4d560655be4bedd2e19963eb8e
+    name: org.sw.demo.facebook.zstd.zstd-1.4.4.dll
+    size: 360448
+  -
+    hash: f1fb7d28608e29dfa391bc7d23d76b89d6d70feb9f025fd0a8364274fb57a7be
+    name: org.sw.demo.gif-5.2.1.dll
+    size: 44544
+  -
+    hash: 1793bf917af5d29209a9a64e5d45c2febc5dfee8c23c8ea4cf4a0c27ebcc8fed
+    name: org.sw.demo.glennrp.png-1.6.37.dll
+    size: 193024
+  -
+    hash: e9ccdd88e3531391fcf55b30b536b8a4991286d181b1de361446eac1b4947827
+    name: org.sw.demo.gnu.iconv.libcharset-1.16.0.dll
+    size: 11264
+  -
+    hash: f213cd6258a8c3fda04e4c09b4f71e44e1bde5f8fb9bdd6225cf851d95a65971
+    name: org.sw.demo.gnu.iconv.libiconv-1.16.0.dll
+    size: 937984
+  -
+    hash: a52e8ffbcd8252a4d9d42379ec775cacc593243a929c2123613cd5bc21687261
+    name: org.sw.demo.google.tesseract.libtesseract-master.dll
+    size: 5006848
+  -
+    hash: eba37aacb963692920ddc574b5f2204c54c2dd8399f6d4f2d8d52fa2412acdc8
+    name: org.sw.demo.jpeg-9.3.0.dll
+    size: 288256
+  -
+    hash: 3386afc24dd61cb12eed5703626b08e3b0fbb68bf59e06c661c323c8a1cb3c4e
+    name: org.sw.demo.libarchive.libarchive-3.4.1.dll
+    size: 755200
+  -
+    hash: 66d479046e58b52b21c7d7b13482e120595679fdfd90871de079f716339a12ab
+    name: org.sw.demo.lz4-1.8.3.dll
+    size: 95744
+  -
+    hash: 8b9c58911f4ff72d6f65163383af77d24719f3fd3494641dedb3a06f020df5c0
+    name: org.sw.demo.madler.zlib-1.2.11.dll
+    size: 84480
+  -
+    hash: c8631eb627ed59cf9fe01696dfa65be800fd27c3f082c5dedc49360245e8dd7c
+    name: org.sw.demo.oberhumer.lzo.lzo-2.10.0.dll
+    size: 111616
+  -
+    hash: 014f1f4415e1aa5f2589e986561638a230cf144b1025df87a0e1f7987ca1f354
+    name: org.sw.demo.tiff-4.1.0.dll
+    size: 460288
+  -
+    hash: f57da5ec335c7cc86f673d635317e585108afa95f252a7d7c3633744fc060000
+    name: org.sw.demo.uclouvain.openjpeg.openjp2-2.3.1.dll
+    size: 279552
+  -
+    hash: 768a51730fff2019a38e4477193d2e56eec81f5cf27c0e6d7ef40381c3ae1fe4
+    name: org.sw.demo.webmproject.webp-1.0.3.dll
+    size: 559104
+  -
+    hash: b1ed03b56e6e54ff5be3a18fd1c15a7469aaf976accfd1ae867885fcbe10c87f
+    name: org.sw.demo.xmlsoft.libxml2-2.9.9.dll
+    size: 1254912
+  -
+    hash: b734698e633a8baadd424b977dc9435bfe6624d3bb08605f69b6ace8b20e1c25
+    name: org.sw.demo.xz_utils.lzma-5.2.4.dll
+    size: 154112
+  -
+    hash: 171c8ed09b99000e689e33e76f906468ca2472b7a83359f9fa9ef62f7de6686f
+    name: Qt5Coreengine.dll
+    size: 4237312
+  -
+    hash: 0874767fe61dbae42241c3e92dd6833f9337b3cf5b9292f6081180fa95414626
+    name: tesseract_wrapper.dll
+    size: 14336
+  -
+    hash: a3a06e7893711f8d1c2387746996c5dab6097857cf1d350920a0faceed504208
+    name: aspose/Aspose.Cells.dll
+    size: 13232920
+  -
+    hash: 773d92842870834b8d2153c9dae62a719fff23de14444046fc4a731befeeed7a
+    name: aspose/Aspose.Pdf.dll
+    size: 35329304
+  -
+    hash: e5945a1ad377d1fc1051840f18e1475ef6ea89e188748feb373595d714ceb40d
+    name: aspose/Aspose.Words.dll
+    size: 12702208
+  -
+    hash: b8bf2efdaa9952b63387136718468346097fd14df352314065db1dc0e860ca69
+    name: aspose/asposewrapper.deps.json
+    size: 34911
+  -
+    hash: c54ea49b6143bd300cbd55331d61962d146ca8f8007e17d703879e126f64176e
+    name: aspose/asposewrapper.dll
+    size: 50176
+  -
+    hash: d70b6608b5fbfe1d7cb0a5fd6ac3a10dfae14b4c36e0f9b9515b264358df821b
+    name: aspose/asposewrapper.runtimeconfig.json
+    size: 257
+  -
+    hash: aa6e934ef11f46360de7edd0b7a20f1ec7a1941b37af081aeb720ecde99404a2
+    name: aspose/DotNetZip.dll
+    size: 239616
+  -
+    hash: 9a31e95d492a68a034492798a7dda52d0f44f6e4fd0986c37695263c5bf3c0b7
+    name: aspose/libSkiaSharp.dll
+    size: 7524464
+  -
+    hash: 5aca97fe293619a621a99c0d044609f00a0243274501a653e860f8544bd9c77f
+    name: aspose/MetadataExtractor.dll
+    size: 591360
+  -
+    hash: 1e31f8793861c7cb10621a38f3fda6b787d15bac348b70e38e80e3544a086e86
+    name: aspose/Microsoft.DotNet.PlatformAbstractions.dll
+    size: 22632
+  -
+    hash: c370577a84d8d984442aa9a269ac3d718c1d5b056efa24b3575b76ff9d69da64
+    name: aspose/Microsoft.Extensions.DependencyModel.dll
+    size: 58472
+  -
+    hash: 1d5bbfb227f20e866cf25f649a059b61c3f35336f69ebd19b8ede7b6e14a7414
+    name: aspose/Microsoft.Win32.SystemEvents.dll
+    size: 50248
+  -
+    hash: 99177a4cbe03625768d64a3d73392310372888f74c3eb271cf775e93057a38e6
+    name: aspose/Newtonsoft.Json.dll
+    size: 693680
+  -
+    hash: f15842710e8aade77459891ad8046c62c48981e7ab3ebc8cb5ad3fd45a4020b5
+    name: aspose/SkiaSharp.dll
+    size: 342632
+  -
+    hash: e814b79f175ecde855c7ae003cd8bc5ed88edea4ab4089d055ed7b63da7bbec9
+    name: aspose/System.Configuration.ConfigurationManager.dll
+    size: 382096
+  -
+    hash: f56db32ae6b7973313b19689e6154dcc7ccb95125329a7a71ea6b2989f6835a7
+    name: aspose/System.Diagnostics.PerformanceCounter.dll
+    size: 112272
+  -
+    hash: df409de7822ebe4871aadef1f8e4a553406395c8d692704037781777ba650300
+    name: aspose/System.Drawing.Common.dll
+    size: 414280
+  -
+    hash: 7f2b633eed63bf20d558a25ed9686d2f1ef6c6e3fef5c0b19c2c1258d90acabd
+    name: aspose/System.Security.Cryptography.ProtectedData.dll
+    size: 32912
+  -
+    hash: 8ca99b4d76d2708d27040d82d87c9f2beb26987e283146aea6bc275d92e895ce
+    name: aspose/System.Security.Permissions.dll
+    size: 96400
+  -
+    hash: 961d4e6bb13faac51fb15144b49620883494ccf7465f491692a58f00bd47f664
+    name: aspose/XmpCore.dll
+    size: 144896
+  -
+    hash: 03d8986abdeeb55a66a762b81f0dbc20244457115b6eb8c8cd6de54a4514d1ad
+    name: aspose/License/Aspose.Total.lic.zip
+    size: 771
+  -
+    hash: 7f6839a61ce892b79c6549e2dc5a81fdbd240a0b260f8881216b45b7fda8b45d
+    name: dotnetruntime/LICENSE.txt
+    size: 9519
+  -
+    hash: 2e3b2cb5cb57ff44310801dd46e51dab1d35d9cfe196a9709ee8cb9c6f8e4d4a
+    name: dotnetruntime/ThirdPartyNotices.txt
+    size: 31961
+  -
+    hash: 0d8a2cd3babdb906dea6308cb8f3e42d0c9da6ca98566320783296a99cba4a55
+    name: dotnetruntime/host/fxr/3.1.4/hostfxr.dll
+    size: 599416
+  -
+    hash: a450e619e8bfb4dfcef3b53a9e610adf9018273e3373d8b709cdeec274c39dfd
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/.version
+    size: 49
+  -
+    hash: 9f3608c15c5de2f577a2220ce124b530825717d778f1e3941e536a3ab691f733
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-console-l1-1-0.dll
+    size: 19208
+  -
+    hash: 3b68d7ab0641de6b3e81d209b7c0d3896e4ffa76617bbadd01eb54036cdd1b07
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-datetime-l1-1-0.dll
+    size: 18696
+  -
+    hash: 55574f9e80d313048c245acefd21801d0d6c908a8a5049b4c46253efaf420f89
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-debug-l1-1-0.dll
+    size: 18696
+  -
+    hash: b3715112a7ca4c6cc0efee044bd82444d3267a379e33a3ec118d87e75604204d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-errorhandling-l1-1-0.dll
+    size: 18696
+  -
+    hash: 56de091efe467fe23cc989c1ee21f3249a1bdb2178b51511e3bd514df12c5ccb
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-file-l1-1-0.dll
+    size: 22280
+  -
+    hash: 322d963d2a2aefd784e99697c59d494853d69bed8efd4b445f59292930a6b165
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-file-l1-2-0.dll
+    size: 18696
+  -
+    hash: 1ea267a2e6284f17dd548c6f2285e19f7edb15d6e737a55391140ce5cb95225e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-file-l2-1-0.dll
+    size: 18696
+  -
+    hash: 8ee2de377a045c52bbb05087ae3c2f95576edfb0c2767f40b13454f2d9f779de
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-handle-l1-1-0.dll
+    size: 18696
+  -
+    hash: 87a5c5475e9c26fabfead6802dac8a62e2807e50e0d18c4bfadcb15ebf5bcbc0
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-heap-l1-1-0.dll
+    size: 19208
+  -
+    hash: 5cd00ff4731691f81ff528c4b5a2e408548107efc22cc6576048b0fdce3dfbc9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-interlocked-l1-1-0.dll
+    size: 18696
+  -
+    hash: 8e01eb923fc453f927a7eca1c8aa5643e43b360c76b648088f51b31488970aa0
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-libraryloader-l1-1-0.dll
+    size: 19720
+  -
+    hash: a07cc878ab5595aacd4ab229a6794513f897bd7ad14bcec353793379146b2094
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-localization-l1-2-0.dll
+    size: 21256
+  -
+    hash: c2e887a17875d39099d662a42f58c120b9cc8a799afd87a9e49adf3faddd2b68
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-memory-l1-1-0.dll
+    size: 19208
+  -
+    hash: 593fa2aa2474508ad942bbaa0fdc9a1badd81c85b0dff1c43b90a47c23ad5fb7
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-namedpipe-l1-1-0.dll
+    size: 18696
+  -
+    hash: ea2972fec12305825162ae3e1ae2b6c140e840be0e7ebb51a7a77b7feeda133a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-processenvironment-l1-1-0.dll
+    size: 19720
+  -
+    hash: a1221836731c7e52c42d5809cc02b17c5ec964601631ec15a84201f423da4ac4
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-processthreads-l1-1-0.dll
+    size: 20744
+  -
+    hash: fe760614903e6d46a1be508dccb65cf6929d792a1db2c365fc937f2a8a240504
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-processthreads-l1-1-1.dll
+    size: 19208
+  -
+    hash: 9e98b03a3ca1ebabdceb7ed9c0ceb4912bb68eb68f3e0df17f39c7a55fada31d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-profile-l1-1-0.dll
+    size: 18184
+  -
+    hash: cdc4cfebf9cba85b0d3979befdb258c1f2cfcb79edd00da2dfbf389d080e4379
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-rtlsupport-l1-1-0.dll
+    size: 19208
+  -
+    hash: 854db7d2085caacf83d6616761d8bdcbacb54a06c9a9b171b1c1a15e7dc10908
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-string-l1-1-0.dll
+    size: 18696
+  -
+    hash: 50a1542d16b42ecb3edc1edd0881744171ea52f7155e5269ad39234f0ea691de
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-synch-l1-1-0.dll
+    size: 20744
+  -
+    hash: 59c14541107f5f2b94bbf8686efee862d20114bcc9828d279de7bf664d721132
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-synch-l1-2-0.dll
+    size: 19208
+  -
+    hash: 8310d855398f83cb5b9ca3adeb358da1354557aec5c82c8ef91a29f79a47f620
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-sysinfo-l1-1-0.dll
+    size: 19720
+  -
+    hash: 48eb5b52227b6fb5be70cb34009c8da68356b62f3e707db56af957338ba82720
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-timezone-l1-1-0.dll
+    size: 19208
+  -
+    hash: a41bede183fa1c70318332d6bc54ef13817aeee6d52b3ab408f95fa532b809f1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-core-util-l1-1-0.dll
+    size: 18696
+  -
+    hash: d5960c7356e8ab97d0ad77738e18c80433da277671a6e89a943c7f7257ff3663
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-conio-l1-1-0.dll
+    size: 19720
+  -
+    hash: 83678f181f46fe77f8afe08bfc48aebb0b4154ad45b2efe9bfadc907313f6087
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-convert-l1-1-0.dll
+    size: 22792
+  -
+    hash: f7c6c7ea22edd2f8bd07aa5b33cbce862ef1dcdc2226eb130e0018e02ff91dc1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-environment-l1-1-0.dll
+    size: 19208
+  -
+    hash: 610332203d29ab218359e291401bf091bb1db1a6d7ed98ab9a7a9942384b8e27
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-filesystem-l1-1-0.dll
+    size: 20744
+  -
+    hash: af47aebe065af2f045a19f20ec7e54a6e73c0c3e9a5108a63095a7232b75381a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-heap-l1-1-0.dll
+    size: 19720
+  -
+    hash: b3b6ee98aca14cf5bc9f3bc7897bc23934bf85fc4bc25b7506fe4cd9a767047a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-locale-l1-1-0.dll
+    size: 19208
+  -
+    hash: a25d0654deb0cea1aef189ba2174d0f13bdf52f098d3a9ec36d15e4bfb30c499
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-math-l1-1-0.dll
+    size: 27912
+  -
+    hash: dff24441df89a02dde1cd984e4d3820845bafdff105458ed10d510126117115b
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-multibyte-l1-1-0.dll
+    size: 26888
+  -
+    hash: adbb658dd1cbecaca7cc1322b51976f30b36ccf0a751f3bad1f29d350b192c9c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-private-l1-1-0.dll
+    size: 71432
+  -
+    hash: fc50a37acc35345c99344042d7212a4ae88aa52a894cda3dcb9f6db46d852558
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-process-l1-1-0.dll
+    size: 19720
+  -
+    hash: 371a44ab91614a8c26d159beb872a7b43f569cb5fac8ada99ace98f264a3b503
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-runtime-l1-1-0.dll
+    size: 23304
+  -
+    hash: 0189cbd84dea035763a7e52225e0f1a7dcec402734885413add324bffe688577
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-stdio-l1-1-0.dll
+    size: 24840
+  -
+    hash: 885309eb86dccd8e234ba05e13fe0bf59ab3db388ebfbf6b4fd6162d8e287e82
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-string-l1-1-0.dll
+    size: 24840
+  -
+    hash: 00ac02d39b7b16406850e02ca4a6101f45d6f7b4397cc9e069f2ce800b8500b9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-time-l1-1-0.dll
+    size: 21256
+  -
+    hash: 984306a3547be2f48483d68d0466b21dda9db4be304bedc9ffdb953c26cac5a1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/api-ms-win-crt-utility-l1-1-0.dll
+    size: 19208
+  -
+    hash: 709cba4ce752a6f84e1b8a95e84bf6c4750310e255044f9f8326d2421af54bc2
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/clrcompression.dll
+    size: 747400
+  -
+    hash: b037e77944c693708be985ffe27a004993e684a87492dc2c8ba214a1ab0935b1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/clretwrc.dll
+    size: 243592
+  -
+    hash: 5d99433270a46f61f96eb71672d976f82709e7f1cbdd50e218f38d2bf3a5b633
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/clrjit.dll
+    size: 1304456
+  -
+    hash: 5f26a59df8d186615ec681ead9feaaa8d30ee31e195d4288dca7671473db45ae
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/coreclr.dll
+    size: 5588872
+  -
+    hash: c91b9a919a0f7b11e2663bbf23cb95896c1136330437929347ce4375dea849f9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/dbgshim.dll
+    size: 136072
+  -
+    hash: 75804fec25a54ff3a59f2f153ab7abae1bfb4f129d672b10d57945b8885861e7
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/hostpolicy.dll
+    size: 590728
+  -
+    hash: 465eeef43814caeb394a97b35a89c2a79d8930906f57c364507805d912275189
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/Microsoft.CSharp.dll
+    size: 797560
+  -
+    hash: 95f301012ed09c09c9eb61a23a2803a7043e6a33f9c8957746379b610a52978d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/Microsoft.DiaSymReader.Native.amd64.dll
+    size: 1495800
+  -
+    hash: a88ba43ae8982e87b2c04a84f07f0e100b4cf8987c4962e294e4e2b403c9ebe3
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/Microsoft.NETCore.App.deps.json
+    size: 53346
+  -
+    hash: 212351cac14d6a0f10d0ad3ff7efdff6cbfa9b08e5958de08bc08742b77127ca
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/Microsoft.VisualBasic.Core.dll
+    size: 1209720
+  -
+    hash: 841bd7f4f6e857c3fa04663107632b9aaabe7c51a3b711ccf1411167242ecd48
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/Microsoft.VisualBasic.dll
+    size: 16248
+  -
+    hash: 5fefc0622d521a3aefe1827e6c7cf1d6c067ccd20bb90cb2ab4864725b4256a8
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/Microsoft.Win32.Primitives.dll
+    size: 21368
+  -
+    hash: 63aa7100fc792625a38ff31e8db601023cff4e3f26fa941e0683aa9f811547c5
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/Microsoft.Win32.Registry.dll
+    size: 82808
+  -
+    hash: 6eaa645134a0e4129a5ad16a51a8653d8287254706c023fe4d8d1cce58d7ee95
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/mscordaccore.dll
+    size: 1263480
+  -
+    hash: 6eaa645134a0e4129a5ad16a51a8653d8287254706c023fe4d8d1cce58d7ee95
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/mscordaccore_amd64_amd64_4.700.20.20201.dll
+    size: 1263480
+  -
+    hash: 62898dea205ea87ea02bbaccd60ba806d5fed540f381f298204469b3dfde0cc3
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/mscordbi.dll
+    size: 1318280
+  -
+    hash: 0a111354356e652e5d8583e04180d935b62c8b712e86c7eee44482c40ceecb84
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/mscorlib.dll
+    size: 57216
+  -
+    hash: 19b247c37eb160068feae7d569bef22371d462866fe0cd319530002865ff0890
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/mscorrc.debug.dll
+    size: 178568
+  -
+    hash: 93aa39dc417e01d074bc949caef6d6b6dd626b948072c16444e9cff1b71c4b5e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/mscorrc.dll
+    size: 13192
+  -
+    hash: d98d4916583f260a25bfa80b066e1432727eebcb7a61ff17a0c8d00fd505af0e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/netstandard.dll
+    size: 114048
+  -
+    hash: 72bab8ad57ae20824c84aaf9fe2e0e305b2108286e066545e6bac14ac7af1450
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/SOS_README.md
+    size: 277
+  -
+    hash: ce15c11d190da031d117d91fa3eba63e519fa264aea1a011ac9f4407d52e06f6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.AppContext.dll
+    size: 13696
+  -
+    hash: 122b3422babe44771991fca16ab9d8f5826757503a2a828c0c57f7f378c127ca
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Buffers.dll
+    size: 14200
+  -
+    hash: b8979e2b714a5e4e8bc5a21707eff24b26aefa71b334e8a279197d5d14e73960
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Collections.Concurrent.dll
+    size: 188792
+  -
+    hash: e36fddfe87159a2115c942e9dfb8338b20ec8befeb339118649bbac9655dd278
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Collections.dll
+    size: 331136
+  -
+    hash: 3c04eb56db738864bea4d8147e08c8c3923cfcd6b1ba1b496bc9ebf1bafb29b1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Collections.Immutable.dll
+    size: 648064
+  -
+    hash: 34177cc6f4ab689634de48e334528f29343ad705d6b8a86219df5323973cc74f
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Collections.NonGeneric.dll
+    size: 96632
+  -
+    hash: 68850b721b3bda2e51e91f74e3214f23e9b0a480ca8ca8223e929ecfe47cb3d1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Collections.Specialized.dll
+    size: 89976
+  -
+    hash: 920c915be0d014a2bc12b1d28111ac4749c2c9a620993172964179c514158af1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ComponentModel.Annotations.dll
+    size: 162168
+  -
+    hash: 66df7bf3913e3ae9ab63912b970a3cf254ce9d5af2b3e7052f9ed760ea98579c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ComponentModel.DataAnnotations.dll
+    size: 15736
+  -
+    hash: 524c600091eb602e0794060ee032729d3f0ffbcb7d6c53fb59b46ca010ab7279
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ComponentModel.dll
+    size: 15744
+  -
+    hash: 07a4b06fd17137b3babdbb7e5db261355043067ebbc1f2082c4c09a8aa9fd9de
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ComponentModel.EventBasedAsync.dll
+    size: 34168
+  -
+    hash: a6556dd82d671c55783f5b2e90250617c9eee7f410e5b21f7323a6ea2b8b38e6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ComponentModel.Primitives.dll
+    size: 53112
+  -
+    hash: ef3957a6f56a7f692211d63a3d9b9d76abe05815d0249cfe282a89285f982fa5
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ComponentModel.TypeConverter.dll
+    size: 706952
+  -
+    hash: 42b60bbcdc0ff84214d42bd826883861f2269a8eab02c50729fef2cde051c196
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Configuration.dll
+    size: 18304
+  -
+    hash: fed8a67a1b930301e916ec8ee76cbf8adf49b6676d8cea2a72e9c727d8ab1db6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Console.dll
+    size: 152968
+  -
+    hash: 0aa95ad64bb59e9e3ed18cdab60b6ac68c58a5bda36d4c6d0612f7f7306867ef
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Core.dll
+    size: 23416
+  -
+    hash: aa47474aac73570ca0717af88c6229e219226e8d2874d6eb5f7145e6ed2ce061
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Data.Common.dll
+    size: 2912640
+  -
+    hash: 0ced89b427ddae7022a4add63e5ea42f82a128ac1cfe95fcae066264fddd453d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Data.DataSetExtensions.dll
+    size: 14200
+  -
+    hash: e4a93a162165d3e1cdd87315d327e88b11494740144da9835843ef5912c69ef3
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Data.dll
+    size: 25464
+  -
+    hash: 1f08d77fc681f26ab98eedaef8b86778af8221e0327eb562a6ca4aab11f315e2
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.Contracts.dll
+    size: 14720
+  -
+    hash: dddd166853e98323af7f12a721bbb52b5c48370312ca90646e687b767217650a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.Debug.dll
+    size: 14200
+  -
+    hash: f0465e8b35d33f41da31d45175d35cb3c9b208081e997bb4cf703e8d322a11ec
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.DiagnosticSource.dll
+    size: 99192
+  -
+    hash: 304a0e368adf0e3d60182bda32bdfa3e52e6d9e85ca61472bc443eca7941d05a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.FileVersionInfo.dll
+    size: 29048
+  -
+    hash: 98727ccf4cc4db66e48227960be63c8373022f96f0202f05c3e53cd4e55ccf21
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.Process.dll
+    size: 256888
+  -
+    hash: 2757eaf51344c299cbeb5e09b92aeca411c376a14ee6886b1e9a421199e94015
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.StackTrace.dll
+    size: 35192
+  -
+    hash: 5b5b8b6eb6d6ffcdce7df4e5a7fe434f5890ab3708622826cfd6127334851ed5
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.TextWriterTraceListener.dll
+    size: 55672
+  -
+    hash: e2acdff4f4f7f4023a84ded4373e0d2f6b2317da74dbd88468557caff53145cb
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.Tools.dll
+    size: 16760
+  -
+    hash: 51f39064d61798241066b44affc8302f7c0d5bca995970e1a5cff1955635712d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.TraceSource.dll
+    size: 125304
+  -
+    hash: f011796d5fa63d0264f24e1b9f92cb15f010a160cbbb2e09bc47ee46aa3694ac
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Diagnostics.Tracing.dll
+    size: 15232
+  -
+    hash: cedce285e6900f8b7bf8c1fb8a01336805932e661ed06d59cacac91bbdde47db
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.dll
+    size: 54144
+  -
+    hash: 172cdfa1309f49e6f17f88c414ae2c42ec6ff8027faa8e2f6da36fbbd211163b
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Drawing.dll
+    size: 19840
+  -
+    hash: cfffb9cdec9ca132f77026beb67da58ca50947d662cb2b9aa358e8ba8769e1fd
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Drawing.Primitives.dll
+    size: 123768
+  -
+    hash: 3f26d85259a4743130b805f2e59535c5a1434bebc8db22765ff52e28de1702e9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Dynamic.Runtime.dll
+    size: 15224
+  -
+    hash: f11ee760e1788e544457c6eff4506d5f3a06d8ada4fbbe0aad606a53da2866d1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Globalization.Calendars.dll
+    size: 14712
+  -
+    hash: 5a82cf484a7ded706ad8fd7a25aed08a21b116b78c935dc0a6d9b13dcbe8b1f2
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Globalization.dll
+    size: 14200
+  -
+    hash: b4efc10d0c2373bcfc025b5e470e3b0f6fe4bfad5ea45d80516fd8794e1e1182
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Globalization.Extensions.dll
+    size: 14720
+  -
+    hash: bd0bb04280b72911037d7e09951257a6fdd0591fbd6833959f280877f03ce985
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.Compression.Brotli.dll
+    size: 69504
+  -
+    hash: 3b20085fe6199b8f1ee2f2f6f14acad8cf465e62facb8e0123de2c9f27c07f09
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.Compression.dll
+    size: 247168
+  -
+    hash: 623163893a88dacae690c14f66e97c949f5b479e8d1c3645b09d8fb47015a6d1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.Compression.FileSystem.dll
+    size: 14216
+  -
+    hash: f35c096c278c672f3b27dc888e91cfb168edb10792fd8fb5d2f3898200a68ada
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.Compression.ZipFile.dll
+    size: 34168
+  -
+    hash: 497affd3a8829e370e59c99eaad510dc5a69ff5e23638eb2de12d71256f0b23e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.dll
+    size: 14208
+  -
+    hash: aa1968e2fca7e827aac7e5f62a610211d2c6239944330418a7a588f4e3cf1794
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.FileSystem.AccessControl.dll
+    size: 86920
+  -
+    hash: dd2d90f82c9476ad24b54d8d73fe535f5012dda259e8828430a64af240809614
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.FileSystem.dll
+    size: 217480
+  -
+    hash: 73005f2d119162feaf669fb10290488b469a4663d96d9395e1c38e6d44ee4ca2
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.FileSystem.DriveInfo.dll
+    size: 37752
+  -
+    hash: 1022c131a7a3b65ad7ac2f7a03c0a020be03d4ebca6ac04fc83d1f32ad8bf5ee
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.FileSystem.Primitives.dll
+    size: 14208
+  -
+    hash: 66863bab66cb875cf7087ab961baf8ac3f7f3b73a5b561d49ebc25bb691ab232
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.FileSystem.Watcher.dll
+    size: 68992
+  -
+    hash: d745f139d81be1494e166da8649108d155c98b35503a0d6844bbc243d6bb9d8a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.IsolatedStorage.dll
+    size: 79224
+  -
+    hash: dcccc91525d0280ee7bd279808ea7f56e9332bcdb1cb12f92463e25b7a98a9b5
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.MemoryMappedFiles.dll
+    size: 63352
+  -
+    hash: a14d889907c2dff02290a1a734fc8ea3a5052a968d12c9e108fb204cc54b7aa4
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.Pipes.AccessControl.dll
+    size: 14192
+  -
+    hash: c8bb6a3b60f9f07e2dea1927046a8f590d12c40205c0f74372b03d91423cba6d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.Pipes.dll
+    size: 130432
+  -
+    hash: aff21423dc020a37c4cd7f59f046ac9be1a78067236fa3486343ca8300427316
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.IO.UnmanagedMemoryStream.dll
+    size: 14200
+  -
+    hash: 7f76f19ae297d62ebd6e6c76b098f7087b54c3444e7812ea5d0085c5941ad7be
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Linq.dll
+    size: 420728
+  -
+    hash: 904fefec01a9499e969f1e31420334d5cd199de293456bdb8945086dc4a1b74f
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Linq.Expressions.dll
+    size: 5256568
+  -
+    hash: 9d7b9b3e2916088cd4f205ace9cbbda033776c586bb6205423cca0856c942966
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Linq.Parallel.dll
+    size: 1310584
+  -
+    hash: aa945b33797c50a387435d99e70160e06a2201eb80d16e1dfdcae22db3f1e98c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Linq.Queryable.dll
+    size: 177528
+  -
+    hash: beaa530e579d55dad2986d66d6af07447f25b8dd44812730bdbe8d02b1a5615c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Memory.dll
+    size: 180088
+  -
+    hash: 2664279c6faa8e30b9d729eb5bdc35e54b7d3c500be08a7c34aa006bd1308dcd
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.dll
+    size: 16248
+  -
+    hash: 45298d64c593f8442cf5358ae426396005e9b1da24b8b90c0ad12b7a79414d71
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.Http.dll
+    size: 1477000
+  -
+    hash: 877a403a25d785514197ff4a2fdbd53ee97e5ab03beda8f7bee712600287b4f0
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.HttpListener.dll
+    size: 653688
+  -
+    hash: bf7e0efd62651a5164334a4f5fa5c30a71b6905d8669a93cca7064a4d1d156f8
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.Mail.dll
+    size: 545144
+  -
+    hash: 6660546591d791515e5963133e14275be7e880871e95a0a64d262c421cd75e21
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.NameResolution.dll
+    size: 86392
+  -
+    hash: 874ff3f8b14f011d28ae685c0a5d41eb7f1f7cf7c2fe60123fbda0eb9e9a7de6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.NetworkInformation.dll
+    size: 174976
+  -
+    hash: 404d21f5be1ae2d45a28b463bcbdd010975d1361361bf328c6e1b04be4596822
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.Ping.dll
+    size: 97656
+  -
+    hash: 04d43e2a8113704de64d3dbe78fed935a797b6de52565afe1717f283a0c1f9c9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.Primitives.dll
+    size: 212856
+  -
+    hash: 0cd3217c47243f5257708536a4f4273cbff2504a6b2ec65eb8f136327ba4a35c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.Requests.dll
+    size: 346488
+  -
+    hash: 769a269e0d338db4c466b422d88f60d74956de29d73d4593a10542fed6e6b7c6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.Security.dll
+    size: 574336
+  -
+    hash: bc4016575b83c620a6099471784845414bd3685c1911154c309f7d0eb9708678
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.ServicePoint.dll
+    size: 33144
+  -
+    hash: 0a67792ae131f754ef95f2459c45df31a527755b88eda4ec6903ec93b99d2e81
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.Sockets.dll
+    size: 540536
+  -
+    hash: 631419af97615ec193991196a144c84d06155784e0baf432af80b1f0b3d6c26b
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.WebClient.dll
+    size: 158592
+  -
+    hash: 1a007aff8d779685a34521816cd6a02fafe385f45bec0da25cbf0bc4b71f82d8
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.WebHeaderCollection.dll
+    size: 66424
+  -
+    hash: 0900d7b87602c2da789207b04a4242a7a48d503330285952c7e3929152cf079e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.WebProxy.dll
+    size: 25976
+  -
+    hash: ba061ae60f9f90bbfcf42827cad42ecbccba34d8368a39616e7ccaac3a302190
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.WebSockets.Client.dll
+    size: 71040
+  -
+    hash: 486ba47bda69976d03a91cf4b2b0d1ca3f99ae8d635b3e8d8c11f93c89fbfd62
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Net.WebSockets.dll
+    size: 140672
+  -
+    hash: eb6163f42f4fd4e8c37957317edf866f2086c590ca24af42f4065881517948af
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Numerics.dll
+    size: 14208
+  -
+    hash: da855c1963a664cb05635bfcb4da194c4ea0aeb1ee05aefce2b496e76f5e7a50
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Numerics.Vectors.dll
+    size: 149368
+  -
+    hash: ea48b5a97beff57b5b192c58fc70a89e3004b71c3de3250ce27c0d5a848fa49a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ObjectModel.dll
+    size: 87424
+  -
+    hash: 3d7ecf0ec532e4d39b2b3abb1d631034bc91bb5bc7f5b00986e86a0b86911925
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Private.CoreLib.dll
+    size: 9556872
+  -
+    hash: 6c5867fac701428732dffe5bec9a6c20bd1039c46bd2accef1fdecd6ddb38595
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Private.DataContractSerialization.dll
+    size: 2060160
+  -
+    hash: 83f1d29818974fc182bec06050391e21d5694fbef2a7d8724c53ae1a1c644818
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Private.Uri.dll
+    size: 242560
+  -
+    hash: f220c6d17e6f23a27883e62347ab62489452d667bc982f21dbefead573a5e2dd
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Private.Xml.dll
+    size: 8423800
+  -
+    hash: 4a8cb12dda85f691928a46cea475a747091b82126daae513dc187e073cadf752
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Private.Xml.Linq.dll
+    size: 370560
+  -
+    hash: d0a543c3f63cf8dbc6126bd57ea8539e25eb985e0525be6e1049681bfd5b32e6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.DispatchProxy.dll
+    size: 68984
+  -
+    hash: d78532e80da98104e481b30c6fd5783301c2f9f9fd24a4ffcd0021b95cd4b3f8
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.dll
+    size: 15224
+  -
+    hash: 6cd3220550ac8d9003d19a47e5bfcafd68eca1bd658134a1a3b818c96876daf9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.Emit.dll
+    size: 14200
+  -
+    hash: 767e4face74dbe5a8bcb0da84ecd02c5a22b951d2760813b5f6ae835f50b191d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.Emit.ILGeneration.dll
+    size: 14208
+  -
+    hash: b28fa441a81130b9d4611ae86f82fb7df9890088bb6378f55db96042eeebb1a4
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.Emit.Lightweight.dll
+    size: 14200
+  -
+    hash: 243b2b73bf3d24910e44bd4b141c5908333df1c05624ce8fc69466395f28f9b4
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.Extensions.dll
+    size: 14208
+  -
+    hash: 68cb0ac7e6a2d190161e3a257faa7b4d3c09ace89df5c908da60635055b43b1c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.Metadata.dll
+    size: 1070976
+  -
+    hash: 10e952a500d0686262a7aeef74678fa396160dde87a12141d7a7584a6f788492
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.Primitives.dll
+    size: 14712
+  -
+    hash: a2caf8b8b91fcfb6bfe9183256df37e65976502dd4c897f42cf1d3204bae51ca
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Reflection.TypeExtensions.dll
+    size: 28536
+  -
+    hash: 68fcfaf1550d3bca1b76b31afcaed00a6efb7e0b3e70e2ba7f64fcd42671c226
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Resources.Reader.dll
+    size: 14200
+  -
+    hash: 46fab7faf69a076475727b78d8295bc2bb3a953560c8124e859a4b19e71a94f2
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Resources.ResourceManager.dll
+    size: 14712
+  -
+    hash: bbc9d68487ea7da057d4f2988da5336a342047338752f2be7613c61cf2848443
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Resources.Writer.dll
+    size: 41848
+  -
+    hash: 67524a3d41c438ce2568ffc535e5211d034093afd499682b9842b7e611b3b56d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.CompilerServices.Unsafe.dll
+    size: 18816
+  -
+    hash: e19d1e6d7e90ca6dacfdb5a9a69df50e0cd0a775523b8ecb376da03bf9346f53
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.CompilerServices.VisualC.dll
+    size: 17280
+  -
+    hash: 9128ca17fdea21a7f44ccbde29159241621ca763099b9fa384958f55543711d4
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.dll
+    size: 53112
+  -
+    hash: 57452de9d5a5f96de9bc3d8dce3d688d004c22654231f48f98ba9b9dad9f054c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Extensions.dll
+    size: 206200
+  -
+    hash: 59b4d8c0a86f4b54c0fd98a3e65cda5b0875ce102092ab5d6a01db0ddd091164
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Handles.dll
+    size: 14200
+  -
+    hash: 1d9c4668f841fcff7b87df0d70129ed9e4e7d4e19f6cb6a3fd8d69522c4a62a8
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.InteropServices.dll
+    size: 53112
+  -
+    hash: e66a64cbb248b6c9d9ad1d6134eb9ad635483093ebebf7ad8848ddf0212ad00e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.InteropServices.RuntimeInformation.dll
+    size: 27008
+  -
+    hash: 99333124129d1d52fe933cf1a8f587fd1b6dc84a3b20ea426370b8a70786bd1b
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.InteropServices.WindowsRuntime.dll
+    size: 15232
+  -
+    hash: 7d211679ecd7846a8b2f47cef8f14f87c94be1cf1d0aee991015d9e01c1fcc2a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Intrinsics.dll
+    size: 14720
+  -
+    hash: 1b8c02d96e1f1d83091c6ac23ae956434734465e9ea45c9109d31a0511fe38d9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Loader.dll
+    size: 14200
+  -
+    hash: 6e4f8950bf8d54006c1cbbc48e1ac6d07d68735fcc1c38389f5368a1bc8373c0
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Numerics.dll
+    size: 196480
+  -
+    hash: 357fff049b9396f673ca5db7e17a909bc316b514712c525062b289adb16fd5dc
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Serialization.dll
+    size: 15736
+  -
+    hash: a0accaecc1afda04c82a852821703e248a03fb6fb7210adf63e1f14e7313ca00
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Serialization.Formatters.dll
+    size: 308600
+  -
+    hash: c42a917428da1fd5985f3437b62def14162c98e6c56f4e299c4662f5b2cc015d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Serialization.Json.dll
+    size: 14712
+  -
+    hash: acd5d87d8948e10e9cf7357422883f40c24ecbbec6dcfd383b97a1ee553a2278
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Serialization.Primitives.dll
+    size: 25464
+  -
+    hash: e6864057e716776bdefdd4d74393a6a2013ddb32bd8e9f6c0dd3c4b387e7525e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.Serialization.Xml.dll
+    size: 15224
+  -
+    hash: 43dd22f853edfab847640850d2d49b216f94ecb5ba2bad7b5fedcafca49cb613
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.WindowsRuntime.dll
+    size: 355192
+  -
+    hash: a6cebc5b0fba956558b89816b717d0b571b351f246badfc94bc215672cb267b5
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Runtime.WindowsRuntime.UI.Xaml.dll
+    size: 75128
+  -
+    hash: 2e61f53e101e6c1121a3ff10ff37a8243015fb93e11fb5369be91aa2e4d1ac80
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.AccessControl.dll
+    size: 211320
+  -
+    hash: 57af6a85c3165378762d9eb44114c1db644460f3be8417fcee253a6c2ba57226
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Claims.dll
+    size: 88952
+  -
+    hash: b8dbfdc1b5a09691d4cb86d8b24e75a4247f6cac37d240fd83d385d266d87d1b
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Cryptography.Algorithms.dll
+    size: 691064
+  -
+    hash: 421adac1402966449f0af7c99cfe6d7b65eb91cf4b8bca519f5d99ec02a9efdc
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Cryptography.Cng.dll
+    size: 431992
+  -
+    hash: ce14b01d97011f503cdbcaa4bc57a00eb30020244dfeefbb6946bca660f10182
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Cryptography.Csp.dll
+    size: 177536
+  -
+    hash: 321e5f8c8b4ef2660beb061e4e6ae8c041185cc79ec005a491087b3f2cec1769
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Cryptography.Encoding.dll
+    size: 70528
+  -
+    hash: af89dacedb5b2b608440b889dcc95be5be1b0f279ef5bc6940adbe0cadeed99f
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Cryptography.OpenSsl.dll
+    size: 32640
+  -
+    hash: 532fc9faa7c185b967e25e12f22246e2fa0c65f8acc37669de55a906304807f4
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Cryptography.Primitives.dll
+    size: 101752
+  -
+    hash: c2d2dfeb7791e2bf567f177d5785d3122279966dc523b1f9db2c611658fe8fa2
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Cryptography.X509Certificates.dll
+    size: 464248
+  -
+    hash: b6bbabffb4bd88ece4b8085fdf6bd18862efc44dc6542c2e75b608d4932f4972
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.dll
+    size: 17272
+  -
+    hash: f8b5779d873cc2a79714a08a22fc24acc47c5a40f14c328eb2f642c49717293c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Principal.dll
+    size: 14200
+  -
+    hash: 572c96fc29eca7f463ee6797bcb60da9ecf22ebb66acd6ea83e7b8cff68b582a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.Principal.Windows.dll
+    size: 144760
+  -
+    hash: e7d6e78252077f235218de4b7bb83d7aac314622896f97a8e3f845b4a9b67f40
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Security.SecureString.dll
+    size: 14208
+  -
+    hash: e58e2cbdac7755827b759237a202b01a8e291a1869edd2b857f214b00f64fedf
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ServiceModel.Web.dll
+    size: 15744
+  -
+    hash: d1c754959a76386a83c36c0244105a211aedce5eaf989fb21b1e4ed2ab137d93
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ServiceProcess.dll
+    size: 14712
+  -
+    hash: 2634a5d98cc7abe52dfa662d0713cff4b3e0eb325ffb8b902956d2ce20bcc8c7
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Text.Encoding.CodePages.dll
+    size: 858496
+  -
+    hash: 112bfca2dca9289243f6a08d8a261a753d0eae401a5d5708cc6da091723f
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Text.Encoding.dll
+    size: 14712
+  -
+    hash: 040623feaa8375453744343942fef44c3138f243ddbeec13da96559e5d6256be
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Text.Encoding.Extensions.dll
+    size: 14200
+  -
+    hash: 30cb12fd0cd25b055d7bc94235c00fa064562c11036f3cf994e6f304ec510eff
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Text.Encodings.Web.dll
+    size: 99192
+  -
+    hash: eeeedaeeaaba9186dbee64ba93049c15a3a0a5664b069623fd220c44a61d2ea1
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Text.Json.dll
+    size: 826760
+  -
+    hash: f26ba70dc5b2ec606a116ce748e4ecb277aad550aa8143ad032b320f64e3bf0c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Text.RegularExpressions.dll
+    size: 393592
+  -
+    hash: f558becf3ac9dccead4f226ce818cf7edb755dace9f70f23454e473fe7e3348b
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Channels.dll
+    size: 111480
+  -
+    hash: 88caa5bcfbbadbb638ad8ee8a3e829ffd2c6095e8a3c3794799c7645657fc351
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.dll
+    size: 76664
+  -
+    hash: 07983f877cee3edaa53b4d7e448b9aa4136e6c1a188998b315e1f9163e8c0ab9
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Overlapped.dll
+    size: 15224
+  -
+    hash: df3fdfcacd3dabd9fb88cd387f911324156bc981dbef08d148ea96ab2e24874b
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Tasks.Dataflow.dll
+    size: 478592
+  -
+    hash: d3ee778c4228d5ec18e6a386ea96e9210e7a8b76f57a5b109b2b4301a22f0d0e
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Tasks.dll
+    size: 15744
+  -
+    hash: cdae950ba5f6c9994917c1fd5aaa2c0062872ed60d183c947759969d42f8919d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Tasks.Extensions.dll
+    size: 14720
+  -
+    hash: 50e1920dd0ed7283e10fc50f558e3daaca024495fdc0b3a36383a355e19e3bfd
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Tasks.Parallel.dll
+    size: 107904
+  -
+    hash: d583619d14073cfb15b6398f211211da92222abc8ba2afd1fbc48925444e42b5
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Thread.dll
+    size: 16768
+  -
+    hash: 90b6aae9a679f0470b94f633f94df99cd1d9162985aeb93f3e2be94f1d7899d3
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.ThreadPool.dll
+    size: 14208
+  -
+    hash: 55ab22d7813faaf92750da65d6eff96835954392b3635c6c67ff75751d4eb39c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Threading.Timer.dll
+    size: 14200
+  -
+    hash: 9abc262e3478324702686a366d33a851d30a54b01731521241533b0455f1407d
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Transactions.dll
+    size: 15224
+  -
+    hash: fdb7cde4739c3a5e23919b91c4adbcd03ea2c61d379f3a9a9250bfaa8620f825
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Transactions.Local.dll
+    size: 348024
+  -
+    hash: 68789b1a5e4c631369d9646bdd41a1ff1ce3f4d08d30be88a38cb5224bf2a436
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.ValueTuple.dll
+    size: 14200
+  -
+    hash: dca55146fe42390be3ddd2a9532f120b55123a9fdcdb250713c60ebffc0f0e00
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Web.dll
+    size: 13696
+  -
+    hash: 6f466481f6085211605a7c500ae89c1e8873bbd52f535443015b8c0c42983571
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Web.HttpUtility.dll
+    size: 44920
+  -
+    hash: c4a80ca6ec6a1ffeae8506ef60fa90dd77397936ee4c54948c37d201e4ff68e4
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Windows.dll
+    size: 14200
+  -
+    hash: 8063881a23baef9fa4b7bc1d281b4d378efdf9e09db27c06d69f4a71e3d7661a
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.dll
+    size: 23928
+  -
+    hash: 41c984737eafe024483a6245cbcfc4c6b2e76658b06f3ebbcdc2b87ca59d0920
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.Linq.dll
+    size: 14712
+  -
+    hash: 2ec6543ec71bec21bf5e2d23e1eb1574dc848f1ce6d6fc26d07cb6dff3ac3108
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.ReaderWriter.dll
+    size: 21376
+  -
+    hash: cd2d2281b0861f9a0395ed9a257c5c420b29fb463fc461ea5e1d183aa4353186
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.Serialization.dll
+    size: 14712
+  -
+    hash: 81dce5a62d09a73fef73360d9fc8807f70b0485cd31cec1950718692701a7afa
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.XDocument.dll
+    size: 14712
+  -
+    hash: 25d2fb000c7ffa4a61265739f0f922d1df5132b57044fe29eecbb10db903691f
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.XmlDocument.dll
+    size: 14712
+  -
+    hash: 186a2590188b34c9d6c7d356d724a596e258262900eedd9d0dc97057c590d7d6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.XmlSerializer.dll
+    size: 16760
+  -
+    hash: 588bb09e923656980c9f1be236d2755a3bd0683bbf1b989781edb4d57cbf9f7c
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.XPath.dll
+    size: 14200
+  -
+    hash: f5295c08faa584775e75a9d59fc116548a91317f86e761c9136a003dd392e928
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/System.Xml.XPath.XDocument.dll
+    size: 15736
+  -
+    hash: 8a91052ef261b5fbf3223ae9ce789af73dfe1e9b0ba5bdbc4d564870a24f2bae
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/ucrtbase.dll
+    size: 1016584
+  -
+    hash: ce44afe27b98d0c4965918dcb21b722f70ec537784af4d9238bdd47986e997e6
+    name: dotnetruntime/shared/Microsoft.NETCore.App/3.1.4/WindowsBase.dll
+    size: 15232
+  -
+    hash: 72f27585bcfefeb87f813b1c66de08bd875624606d67a2fb2f0432914e9ea17f
+    name: ImageMagickDll/colors.xml
+    size: 1378
+  -
+    hash: 02c40edc104919fedba69fc7fb68e513a6ceada0d1759f75aea233dd33bb115c
+    name: ImageMagickDll/configure.xml
+    size: 880
+  -
+    hash: e10448c672f3879036c2afc2cc9cb888e693713e5774060fb25fd045a4546589
+    name: ImageMagickDll/CORE_RL_bzlib_.dll
+    size: 74752
+  -
+    hash: 5935b747543bd68cb9b490364ec5826330fa4fd6d7d1572a20464138344eceb0
+    name: ImageMagickDll/CORE_RL_cairo_.dll
+    size: 1317888
+  -
+    hash: b297473d04ed5e44b3ce417fa92fe0c61ebc7e230a6e74c008b4d2e781928df4
+    name: ImageMagickDll/CORE_RL_exr_.dll
+    size: 3398656
+  -
+    hash: 6a94a34cba7adf2c281a6e7d216ce77a269f9ab6bdbab9159e293523c69f207e
+    name: ImageMagickDll/CORE_RL_flif_.dll
+    size: 1321984
+  -
+    hash: d53ac3b7803fd7be9d1a3b53c66da0836d1d6e66f6042aa1ad8f302a06ff288f
+    name: ImageMagickDll/CORE_RL_glib_.dll
+    size: 2526720
+  -
+    hash: 2d0a6ac67e698af27ff53f28f06073be7aee459aeb33be589d7ae214462ac493
+    name: ImageMagickDll/CORE_RL_jp2_.dll
+    size: 246272
+  -
+    hash: f45fcf78d9aeb8839763903457edbb3c526d064eca60fb599e71a4a647f7dda3
+    name: ImageMagickDll/CORE_RL_jpeg_.dll
+    size: 563200
+  -
+    hash: 4e1e45c9eca7c9bd84ab93d60d39690a653e361354c657fd66e6dcc992aecf53
+    name: ImageMagickDll/CORE_RL_lcms_.dll
+    size: 339968
+  -
+    hash: 3111473a089af6b4180e451160bcfdb705391efcc1310c4b353b70e5391e19eb
+    name: ImageMagickDll/CORE_RL_libde265_.dll
+    size: 557568
+  -
+    hash: 8de5386ddd57fb699c5d0b9d370d1c4a933abc6583c6d6e674367f2dbf98efa5
+    name: ImageMagickDll/CORE_RL_libheif_.dll
+    size: 340992
+  -
+    hash: b90f3532ee76c00adb01bcc182a59bb16b29a0a78f02e9c57ab9a322632b98cf
+    name: ImageMagickDll/CORE_RL_liblzma_.dll
+    size: 157696
+  -
+    hash: 1f46fc98cc6fb046e399f0419ced8cec1c1b5ebc3d642ae1b2935fc3f090961e
+    name: ImageMagickDll/CORE_RL_libraw_.dll
+    size: 931328
+  -
+    hash: 8a7a0e9aceb6118b2c04e1225518a41c9e5199019207451b957f7c660b813b89
+    name: ImageMagickDll/CORE_RL_librsvg_.dll
+    size: 578048
+  -
+    hash: 7294f9408bc9af5d5c416b8466645b6ec1c3604dc40e5b0f652b0cb385ecd08d
+    name: ImageMagickDll/CORE_RL_libxml_.dll
+    size: 376320
+  -
+    hash: 24a1190c2a484a501cbbc794ae2b0e4cc12fa89c61aeb2fb46f71f3007083b15
+    name: ImageMagickDll/CORE_RL_lqr_.dll
+    size: 66048
+  -
+    hash: 2750cda239e8a1ce11c06634d5860ed5f1ce1c0ad467cf02ba44952271492d30
+    name: ImageMagickDll/CORE_RL_Magick++_.dll
+    size: 608256
+  -
+    hash: fdddc23300507553d3d76037a13e0bbfe7e2860659544d053973863d91f97b1a
+    name: ImageMagickDll/CORE_RL_MagickCore_.dll
+    size: 1807872
+  -
+    hash: 2682fd612e5c337b49c34988ac91134c3ec8f51b729078eca047a60c4b2ad726
+    name: ImageMagickDll/CORE_RL_MagickWand_.dll
+    size: 844288
+  -
+    hash: 7847152401d2d9b3472554863c0dbc49615f47dad4983ec2ba63f9b54f5f881f
+    name: ImageMagickDll/CORE_RL_openjpeg_.dll
+    size: 289792
+  -
+    hash: 6cf46230e236a06f303574c4f3010df73514485a7a51a824355fd87ad5e68840
+    name: ImageMagickDll/CORE_RL_pango_.dll
+    size: 369152
+  -
+    hash: 703d7adc3e3ad5c3fc35485cc02e80ff3220d7b2ef8f6e9ef5e00819f8536327
+    name: ImageMagickDll/CORE_RL_png_.dll
+    size: 199680
+  -
+    hash: 0a6b662a613ae7ba3c8b3a0c6a9056c0beef8e39079ace953196456875f4ae1a
+    name: ImageMagickDll/CORE_RL_tiff_.dll
+    size: 430592
+  -
+    hash: 17c279590055348b10cbc558337393e5d3ed542b2b1e06194b0c1c2aaf685b15
+    name: ImageMagickDll/CORE_RL_ttf_.dll
+    size: 640000
+  -
+    hash: 517b96205fbf468b9beb284dc3b988d1e047ae8035075c447fc8e0b94dd1136b
+    name: ImageMagickDll/CORE_RL_webp_.dll
+    size: 566272
+  -
+    hash: 88e735ee6eb5265a7a1b5d4e8e5f7eadefad921d632b298dcd4e2f870341181e
+    name: ImageMagickDll/CORE_RL_zlib_.dll
+    size: 89088
+  -
+    hash: 15b4f60a1b7bb2540a0cdf279bfa7eda21e167528f6af96d9685279e119624c0
+    name: ImageMagickDll/delegates.xml
+    size: 9604
+  -
+    hash: 54a9db3140f3879c6d9c910baad60435e5283ab87cb07a39ea2990cf82f70730
+    name: ImageMagickDll/english.xml
+    size: 51074
+  -
+    hash: fcb6c6545b924362c37d06c751be9322e987729eee4ae733d2a9d6ed6df1eb7f
+    name: ImageMagickDll/FILTER_analyze_.dll
+    size: 15872
+  -
+    hash: bd27bd8b952479e6875a1d90dbf3bee25e0f6ff350d1af5627fc005fdbcdebaa
+    name: ImageMagickDll/ImageMagick.dll
+    size: 45568
+  -
+    hash: 993758eaf719f1eb6c33476ee5910854ff1e9e33cc8452053943b05e00eb2715
+    name: ImageMagickDll/ImageMagick.rdf
+    size: 7471
+  -
+    hash: a19637a27ee8a66367f5b43b1c887ee0648ce37752c862517260b4f32ed58f79
+    name: ImageMagickDll/ImageMagickObject.dll
+    size: 131072
+  -
+    hash: d108c0ef78e33a87fb3b4b9d2de838ea4599288b1819d4b0c9f20ab94a10c582
+    name: ImageMagickDll/IM_MOD_RL_aai_.dll
+    size: 15872
+  -
+    hash: 9e77d8a6c9f6600fc6bee7970c10e2668e09b2402760ae9d27bae5d615eba277
+    name: ImageMagickDll/IM_MOD_RL_art_.dll
+    size: 15360
+  -
+    hash: 97eaf82da1afcb1e0e0a2e6940cab47e1be0b231903f3833c61c98e0a855140f
+    name: ImageMagickDll/IM_MOD_RL_avs_.dll
+    size: 15872
+  -
+    hash: b566465c676f2a7fcd7215e528f039a331579b41ffa448911467b9e103d96cc7
+    name: ImageMagickDll/IM_MOD_RL_bgr_.dll
+    size: 25600
+  -
+    hash: 3192194c83a4f7e2d8a08d0804bdfdb83fdc16174495a4b1eba917a37aacc009
+    name: ImageMagickDll/IM_MOD_RL_bmp_.dll
+    size: 37888
+  -
+    hash: 309100962207c88cc52a3c9ad23786fbd5ab919f46077056054f993424657cb6
+    name: ImageMagickDll/IM_MOD_RL_braille_.dll
+    size: 15872
+  -
+    hash: 14a02f632f59ac6c20e911f6fc51804dac5cdeb92078799d46b8faa7bc890a78
+    name: ImageMagickDll/IM_MOD_RL_cals_.dll
+    size: 18432
+  -
+    hash: 0beedf4157590f398179326854242a8cf2317d254354a14950bb5e31f82b0a6b
+    name: ImageMagickDll/IM_MOD_RL_caption_.dll
+    size: 17408
+  -
+    hash: b327c30fe0c4d6fcb5407726250d1b81847434887a3345cd7bffdbbe20e06bc5
+    name: ImageMagickDll/IM_MOD_RL_cin_.dll
+    size: 25600
+  -
+    hash: 7c5bfc823f1652d9a2c58ff30e360291bf9313b9457f26673da40989efedbaf6
+    name: ImageMagickDll/IM_MOD_RL_cip_.dll
+    size: 15872
+  -
+    hash: 31f37f15cedaae2cd056caa464b9046b37709fd6d255062bcb09ae5ca0977ca7
+    name: ImageMagickDll/IM_MOD_RL_clipboard_.dll
+    size: 14336
+  -
+    hash: ed172d0f5564870cc19b305eccd8c5059b5d8205df25746d13f556e6f692514e
+    name: ImageMagickDll/IM_MOD_RL_clip_.dll
+    size: 13312
+  -
+    hash: 9e93d415f100f0f71eaab59d80f5d543f6c74d2fa8b95964a4066e3818be6c65
+    name: ImageMagickDll/IM_MOD_RL_cmyk_.dll
+    size: 27648
+  -
+    hash: f85abdb49973334e6d045cf0c21f879428c49966064fdf8b20b5b1b1b848dbf8
+    name: ImageMagickDll/IM_MOD_RL_cut_.dll
+    size: 23040
+  -
+    hash: 6d8b3e2119360dedcc3d0f0fdc215cd002b7b90837abdfcd98db3d3ad6a81a56
+    name: ImageMagickDll/IM_MOD_RL_dcm_.dll
+    size: 160768
+  -
+    hash: 5ae6c8ea4f871ff20f67296df423920e2dbf4f9d4284334c7d20390a418e4235
+    name: ImageMagickDll/IM_MOD_RL_dds_.dll
+    size: 48640
+  -
+    hash: 16b74c6632ddc18dcd548ac838eb1e574cd52e898dc67c7a1e0be4b8e0ecf977
+    name: ImageMagickDll/IM_MOD_RL_debug_.dll
+    size: 15360
+  -
+    hash: dfcac6283ea7bb5419af63cb1a297bdd7dd808f0e0c7835babd5a0e7f880afa5
+    name: ImageMagickDll/IM_MOD_RL_dib_.dll
+    size: 26112
+  -
+    hash: 0511b47fad543571350e75a58789af57951b0f5a82517fe87d41a7ecde186d74
+    name: ImageMagickDll/IM_MOD_RL_djvu_.dll
+    size: 13824
+  -
+    hash: 6f1c243b3dd6f4030da7fd547f81b39df8f2545d3b0eff501f87e71dc3d6409a
+    name: ImageMagickDll/IM_MOD_RL_dng_.dll
+    size: 22528
+  -
+    hash: bf2e628674692d9bee1d41ede0e8ba89a03cdfdfbef2d9733b0e40247712177c
+    name: ImageMagickDll/IM_MOD_RL_dot_.dll
+    size: 11264
+  -
+    hash: 3a4a4a0fcadd853f0f13926c00391527155f4f87c1377ca23214a38b683fe064
+    name: ImageMagickDll/IM_MOD_RL_dps_.dll
+    size: 11264
+  -
+    hash: a6b41f1a6c20c65d30a9a0e97815f75d2921df796df64ee2d6304a55dffd4713
+    name: ImageMagickDll/IM_MOD_RL_dpx_.dll
+    size: 34816
+  -
+    hash: 9a8834b1328f93616a850eec3530193b1c9851a1fe7221d700c2ddb8242db3f1
+    name: ImageMagickDll/IM_MOD_RL_emf_.dll
+    size: 19456
+  -
+    hash: 6ea2b8cd77cc0fd105a630bac9eb7da501c7c0caddc6bbacf590badab1da5811
+    name: ImageMagickDll/IM_MOD_RL_ept_.dll
+    size: 17408
+  -
+    hash: 519e87dfa5c5edf8d1684e10d6558e3234460f615137754f3a355a04753702e6
+    name: ImageMagickDll/IM_MOD_RL_exr_.dll
+    size: 19456
+  -
+    hash: 2c3f511d155de15fe5e39a4bf33db088a8e211144845a28d571bef09b824de96
+    name: ImageMagickDll/IM_MOD_RL_fax_.dll
+    size: 16896
+  -
+    hash: 9abd00641448866011efb077d87e14d5913b9a5010e4150c1a753c9c807166cc
+    name: ImageMagickDll/IM_MOD_RL_fits_.dll
+    size: 24064
+  -
+    hash: c3340d3b3a05f806ce22787670de8cc12667f916ccfb2df00eba1455c3974aad
+    name: ImageMagickDll/IM_MOD_RL_flif_.dll
+    size: 19968
+  -
+    hash: ad908e219315f032a22343072b42993d4562ca8162e50a941df9f22ce57c1eae
+    name: ImageMagickDll/IM_MOD_RL_fpx_.dll
+    size: 11264
+  -
+    hash: ff22549330f2eb02dc5e5c6780b5ff7c7ba304b7d05a7d2f0b18f496bbb92a53
+    name: ImageMagickDll/IM_MOD_RL_gif_.dll
+    size: 33280
+  -
+    hash: 4158c88602799acce0c691f996f856894159882ffec9141186a916370b68aacb
+    name: ImageMagickDll/IM_MOD_RL_gradient_.dll
+    size: 16384
+  -
+    hash: e192a8e750f98a6a5d1cac05f4159aab295ce077eb9f984c6d0208fd6ac6826c
+    name: ImageMagickDll/IM_MOD_RL_gray_.dll
+    size: 22016
+  -
+    hash: 1d5a121c874f86ab1d7e5873d9455506dffc40b00cb309fdd94f731d06c8dd20
+    name: ImageMagickDll/IM_MOD_RL_hald_.dll
+    size: 13312
+  -
+    hash: 7d0a0eba6636cb3ba60a26220e6ccd5e88d6fd57a8680ac10aaaa274af602958
+    name: ImageMagickDll/IM_MOD_RL_hdr_.dll
+    size: 20992
+  -
+    hash: 5a55e13e0678794ab1e3814ac26653169f35d44f15a25861ef6f40b9a44fa45c
+    name: ImageMagickDll/IM_MOD_RL_heic_.dll
+    size: 15872
+  -
+    hash: 47c8e89b69be722d96c017c55efb7389c67568702c185a3fdb0d86472c49e91d
+    name: ImageMagickDll/IM_MOD_RL_histogram_.dll
+    size: 17920
+  -
+    hash: 06c93062fa8eb79490b776a6ddbc35f83674776ba37e710727db84aa70bc5566
+    name: ImageMagickDll/IM_MOD_RL_hrz_.dll
+    size: 15360
+  -
+    hash: 2ce8ac8261c3a519c1238594de66a7e5f1c8c4a2c5864d46dc3e4cd5e560077e
+    name: ImageMagickDll/IM_MOD_RL_html_.dll
+    size: 17920
+  -
+    hash: a653b09e78e6ad7154acf049206f9a145a2a9dae0cad14613c07d4d097956fc7
+    name: ImageMagickDll/IM_MOD_RL_icon_.dll
+    size: 28672
+  -
+    hash: cbfd9a4b62ad82d378b8edb821f2c89eca6ce9f345bdf77ec04ae42e48452621
+    name: ImageMagickDll/IM_MOD_RL_info_.dll
+    size: 12288
+  -
+    hash: cb96c540797723c656bbeede7567dbd42291b3c281c6d29aea7ea8ad4e239418
+    name: ImageMagickDll/IM_MOD_RL_inline_.dll
+    size: 16384
+  -
+    hash: 42a764df365f901bd1aa4d7f9f50874e9d340f2b123afcf6dbd1f2ccc1bb31c4
+    name: ImageMagickDll/IM_MOD_RL_ipl_.dll
+    size: 18944
+  -
+    hash: c3fe99e38a867204c82e1c196904bea81d9dc4e24c8e7b427cca6c21d47b6318
+    name: ImageMagickDll/IM_MOD_RL_jbig_.dll
+    size: 13824
+  -
+    hash: d6bc024b49e415e4c7aefc848c0203d36bfaaab577024852f95b62a597af6e15
+    name: ImageMagickDll/IM_MOD_RL_jnx_.dll
+    size: 16896
+  -
+    hash: 8224e19e7b9c02ffdd4e8898b7e39eda7c6662a5fd98655c4c408e93aad56adb
+    name: ImageMagickDll/IM_MOD_RL_jp2_.dll
+    size: 24064
+  -
+    hash: 257ffb448eaebfa73ae521de5d4044fa24c974ae0efc8842e6a3bad3142f47ba
+    name: ImageMagickDll/IM_MOD_RL_jpeg_.dll
+    size: 51712
+  -
+    hash: abcd137dc8977715d3501d7c7d3ded144c5af4f69b0457456949ff6d4f34fcd7
+    name: ImageMagickDll/IM_MOD_RL_json_.dll
+    size: 44032
+  -
+    hash: e1bf7eedf7bc2951266524a1a526c19864ce94302604ef143145ff4096c1dbb7
+    name: ImageMagickDll/IM_MOD_RL_label_.dll
+    size: 16896
+  -
+    hash: 7c04f138c35f58a5c185949bb4b2364492ba0e60b7e3f55a386a7e8b58b1a8c5
+    name: ImageMagickDll/IM_MOD_RL_mac_.dll
+    size: 14336
+  -
+    hash: 3f2c445ef5ce36aed2b91f40f14a95c880b8829e6937681c174fa7704cd355dd
+    name: ImageMagickDll/IM_MOD_RL_magick_.dll
+    size: 220160
+  -
+    hash: 295dad9a66f327850a17b9c79b6746501070e574caa61216126f76b50668
+    name: ImageMagickDll/IM_MOD_RL_map_.dll
+    size: 16896
+  -
+    hash: 92ab31df5dab05f4305064bf2cc47df48a15ed22fce41a1820a5d5542728206d
+    name: ImageMagickDll/IM_MOD_RL_mask_.dll
+    size: 13824
+  -
+    hash: aad77766343615ebf073313a0f9d77e92b6d6763d033a279f969562fa35409c4
+    name: ImageMagickDll/IM_MOD_RL_matte_.dll
+    size: 13824
+  -
+    hash: d70b66018bfe67a9494ebcc28af52589f6993dd9513865baa728d2cb95472fbf
+    name: ImageMagickDll/IM_MOD_RL_mat_.dll
+    size: 32256
+  -
+    hash: 5cfa1ba3f7bc231f3538de415697decf1cb981418a527d51624f165890555a00
+    name: ImageMagickDll/IM_MOD_RL_meta_.dll
+    size: 33280
+  -
+    hash: 590b9184433d17ea27e5f6994443ef059aaae1fc9278c7d68e37382c9dfffb6e
+    name: ImageMagickDll/IM_MOD_RL_miff_.dll
+    size: 43008
+  -
+    hash: 49402f2eb1ccfbf4bc3d113756ed055b8151eefaf0bdc1aa00484e9f1a90c56a
+    name: ImageMagickDll/IM_MOD_RL_mono_.dll
+    size: 14848
+  -
+    hash: 37d8780a97f0a460659a857393f03ac6e77b8c9f58e6113b1cbd9099dd76932a
+    name: ImageMagickDll/IM_MOD_RL_mpc_.dll
+    size: 29696
+  -
+    hash: 702d57c638814edc1565c3d326bb43c81f64dcd39133aa438c537bc54b7cbe9a
+    name: ImageMagickDll/IM_MOD_RL_mpeg_.dll
+    size: 18944
+  -
+    hash: f85daa46adb857ff709a79393b892252ab35c2f4e6aed97011ad12362eb9444e
+    name: ImageMagickDll/IM_MOD_RL_mpr_.dll
+    size: 12288
+  -
+    hash: 68d9714eca8c4376b2b37616ea854d237dc4b47098ff473b31016f9bf7c4bc6c
+    name: ImageMagickDll/IM_MOD_RL_msl_.dll
+    size: 89088
+  -
+    hash: 1b11f4607af932628089aca882da59fb9f4dcfce920ffb8e4ef3bb529e7c8c86
+    name: ImageMagickDll/IM_MOD_RL_mtv_.dll
+    size: 17920
+  -
+    hash: 08ade6889e5e2c990661ff8d3407409ec3fea924cb88b2410bf7d4f9926c1d73
+    name: ImageMagickDll/IM_MOD_RL_mvg_.dll
+    size: 16384
+  -
+    hash: 91a86fb1b94abea3cf87a1b2b17af2a7efb7920050b6af5af37c66a9bc4ef6af
+    name: ImageMagickDll/IM_MOD_RL_null_.dll
+    size: 14336
+  -
+    hash: 6f07631ba4512552542ce713d4624324ebf8dd7a4c61617840c0204cbfdddce4
+    name: ImageMagickDll/IM_MOD_RL_otb_.dll
+    size: 15360
+  -
+    hash: a6202d956301d6fd51a68cc1a126e9bf832fa70d436fe6f54375a1f8b0028224
+    name: ImageMagickDll/IM_MOD_RL_palm_.dll
+    size: 24576
+  -
+    hash: 57fa0bc8c2169dcf4fe455fe263ffbe91c48979c71b09e2b60ad2ecb804976c4
+    name: ImageMagickDll/IM_MOD_RL_pango_.dll
+    size: 20992
+  -
+    hash: 93a53906c392940fe196a8929aa0d8950986835951e7ac2dd954accaf8063817
+    name: ImageMagickDll/IM_MOD_RL_pattern_.dll
+    size: 468480
+  -
+    hash: ccee9284207ad8a2f3b8576654d2c1778a4f50cfd459e170f23b2a7aabc8946e
+    name: ImageMagickDll/IM_MOD_RL_pcd_.dll
+    size: 26112
+  -
+    hash: df56cbeb0ffc84eb5031915ce488d35fac66e1aa7f8d1334d276b0fe48ad0030
+    name: ImageMagickDll/IM_MOD_RL_pcl_.dll
+    size: 23552
+  -
+    hash: 044ccb01cef40a0feaf5a64061c7b2a9aba8b1fa1c25a4abd6a94e2813a0c538
+    name: ImageMagickDll/IM_MOD_RL_pcx_.dll
+    size: 26624
+  -
+    hash: 7c64e7f0a58844145ff51367eb95594badfdaa18957b4c14cbefa8fe93a4d4a7
+    name: ImageMagickDll/IM_MOD_RL_pdb_.dll
+    size: 21504
+  -
+    hash: 56c15dcff46f6da67f9a0fafe48475774cd8826ad6da610db6b34341120ed670
+    name: ImageMagickDll/IM_MOD_RL_pdf_.dll
+    size: 50176
+  -
+    hash: 27b1cab4f064dbb9f19dd3a9c45ddab2a491f76b72ce40753c3eac64716001d5
+    name: ImageMagickDll/IM_MOD_RL_pes_.dll
+    size: 18944
+  -
+    hash: 9ae7c8254ade74be3c080b74d1747e22f6d49146f203bcbcb1733d211e556746
+    name: ImageMagickDll/IM_MOD_RL_pgx_.dll
+    size: 17408
+  -
+    hash: 7abd145444eceda7f89faddbb027f3e6cd47286ff5482528e3382efb79a3dfc2
+    name: ImageMagickDll/IM_MOD_RL_pict_.dll
+    size: 38912
+  -
+    hash: b9a396b48f840a0ed116b778f11b311776ee8ba005e904be74fbed561a972024
+    name: ImageMagickDll/IM_MOD_RL_pix_.dll
+    size: 14848
+  -
+    hash: dc9d154c64e240a227009be2a5d9f10d560fcdf09d1c7a76ed7ec2840c7845b1
+    name: ImageMagickDll/IM_MOD_RL_plasma_.dll
+    size: 15360
+  -
+    hash: d5bda1e0cde19bfe569c3813c358b3ca780968248783d86c623c3194c5855e23
+    name: ImageMagickDll/IM_MOD_RL_png_.dll
+    size: 155648
+  -
+    hash: dd53d89c036f43653f90b3816dab9a80efa2369b5f48b78cfa4f9b069217bc17
+    name: ImageMagickDll/IM_MOD_RL_pnm_.dll
+    size: 40448
+  -
+    hash: 5b4a08b26e3a5eb608531189fe917582f83bf831def2aaa3c05fb8de0929d44f
+    name: ImageMagickDll/IM_MOD_RL_ps2_.dll
+    size: 29696
+  -
+    hash: 7c3c7ab240ecabfe0be6308315f01e9631a6cb47f30d0b50e277de34b61c6723
+    name: ImageMagickDll/IM_MOD_RL_ps3_.dll
+    size: 35328
+  -
+    hash: 25fd57bd58a0a26cb908721f8d05979292a6538fe508b89cdebabc00b16d78ea
+    name: ImageMagickDll/IM_MOD_RL_psd_.dll
+    size: 56320
+  -
+    hash: 139353b71ae1a4e327698f49242775302a88cddc493eb62acf04ff53ba83f3b8
+    name: ImageMagickDll/IM_MOD_RL_ps_.dll
+    size: 50176
+  -
+    hash: 53b2fa692e8545146e5f529dd0ab0c513f0670d99010468128f05ecd74a226dc
+    name: ImageMagickDll/IM_MOD_RL_pwp_.dll
+    size: 16384
+  -
+    hash: 8885154ef591cbdfc9bb94712865090838f1decf03a4bf642128ae74a8ca6cba
+    name: ImageMagickDll/IM_MOD_RL_raw_.dll
+    size: 17920
+  -
+    hash: beacf0b69d1e5a9bfb3d10779e007b344bf31d800d3ecb6328f06f839ac2abe5
+    name: ImageMagickDll/IM_MOD_RL_rgb_.dll
+    size: 25600
+  -
+    hash: de331ed7b8905c22b45b7baf76a91de25239f3ac89dd90c5ce06b894632e58a7
+    name: ImageMagickDll/IM_MOD_RL_rgf_.dll
+    size: 14336
+  -
+    hash: 9b4614dfbf837925838bd86316fa43bf66d02134ed58d90f6df8357d64c4dcbb
+    name: ImageMagickDll/IM_MOD_RL_rla_.dll
+    size: 16896
+  -
+    hash: 3be36838a3f462f36faedfff82e0ed94c97388f87610073abd7d3022d30b5906
+    name: ImageMagickDll/IM_MOD_RL_rle_.dll
+    size: 22016
+  -
+    hash: ee87130e5df58725652af00436a16b5c88250a5d5ba093733811ecbe7380bd72
+    name: ImageMagickDll/IM_MOD_RL_screenshot_.dll
+    size: 15360
+  -
+    hash: c58d7e895feb218344c68f250d5eae52615e95504790502b7f8284a5f24739ff
+    name: ImageMagickDll/IM_MOD_RL_scr_.dll
+    size: 14848
+  -
+    hash: 36a6cceceec011764077f2b400573864471568db165005237d23d3cccc9c62d4
+    name: ImageMagickDll/IM_MOD_RL_sct_.dll
+    size: 16384
+  -
+    hash: 03e505fc4471e02b252e00ef83b07c42da9699455bdc5960a28daddecd768e76
+    name: ImageMagickDll/IM_MOD_RL_sfw_.dll
+    size: 17920
+  -
+    hash: ab8c6abc047271201d55c8d1302e7b88c93acf460d2ee0e302ecce0e94c715a2
+    name: ImageMagickDll/IM_MOD_RL_sgi_.dll
+    size: 24064
+  -
+    hash: dd8cbdfb1c0f7822f1b51a4889482ab3e2ce5dcf8c5014ae9c8592f1877222e9
+    name: ImageMagickDll/IM_MOD_RL_sixel_.dll
+    size: 25600
+  -
+    hash: e0b308a1ea940c2a56d294bec596b086d8a94b932c1eb6e52d836f8ce4bd9429
+    name: ImageMagickDll/IM_MOD_RL_stegano_.dll
+    size: 15872
+  -
+    hash: 7fff618319edb2d946f01955107596ebfaff2a7e8c6dd64138e832f5dcf2cab8
+    name: ImageMagickDll/IM_MOD_RL_sun_.dll
+    size: 21504
+  -
+    hash: 474e225a7166826cde54bba89a8755ed1992946820a2f8048b0715ec924ad36e
+    name: ImageMagickDll/IM_MOD_RL_svg_.dll
+    size: 72192
+  -
+    hash: 4f686bf9c20a2330cc6fb258502c62b6620d13b343510557cdc02f482db39485
+    name: ImageMagickDll/IM_MOD_RL_tga_.dll
+    size: 24576
+  -
+    hash: 64e75c84f49837fd88aa2c4f23e61a84cd49e27bb7a95421ac5994499763dbac
+    name: ImageMagickDll/IM_MOD_RL_thumbnail_.dll
+    size: 13312
+  -
+    hash: 3f6b0e54aefec70608678bf25053dc664233854ab64feca80f74c6ffc5934443
+    name: ImageMagickDll/IM_MOD_RL_tiff_.dll
+    size: 61440
+  -
+    hash: af47d719ea40fd00797aff1ffdba9f3cb5671cdfb04ca62127f311f082b1ebe3
+    name: ImageMagickDll/IM_MOD_RL_tile_.dll
+    size: 12800
+  -
+    hash: d0c01ff5c99d815fe1c1803ac84fe1dae55d9a89c8194ced2eaa6a0adefb2afa
+    name: ImageMagickDll/IM_MOD_RL_tim_.dll
+    size: 15872
+  -
+    hash: 535f3a4e154ee1c0c8eabcf767d46f38f02eb5a5dba8024b8099a7f08a5aa0d2
+    name: ImageMagickDll/IM_MOD_RL_ttf_.dll
+    size: 16896
+  -
+    hash: 4c53a4567872df859ff0d23024d514c4c5b7644f3b10077c3205811eac0efe01
+    name: ImageMagickDll/IM_MOD_RL_txt_.dll
+    size: 24064
+  -
+    hash: 773de47b11f038b55db116d86d0b67f70398df437852a7af746ebef7932592c9
+    name: ImageMagickDll/IM_MOD_RL_uil_.dll
+    size: 16896
+  -
+    hash: db8ea92d1a37de6d39510bbc009a2df12d6105b132843f47b31b586b21eba21a
+    name: ImageMagickDll/IM_MOD_RL_url_.dll
+    size: 15360
+  -
+    hash: 2bfc4b04f74b22e9cbf953bcfac15e39f5098178ebf77257a130244a913cbe79
+    name: ImageMagickDll/IM_MOD_RL_uyvy_.dll
+    size: 15360
+  -
+    hash: e5766060dd0bd293008a0155758b583e1322ede4e1780081bc7011d358cd87e1
+    name: ImageMagickDll/IM_MOD_RL_vicar_.dll
+    size: 18432
+  -
+    hash: 3295553e2bc33e24e2f06279864f4f8bacd201652386f83755dec61408804b02
+    name: ImageMagickDll/IM_MOD_RL_vid_.dll
+    size: 16896
+  -
+    hash: 4169ce85557232ce653e70f6de1bb5cdd24809ec04f2bce31ed129b1911059e9
+    name: ImageMagickDll/IM_MOD_RL_viff_.dll
+    size: 26624
+  -
+    hash: 0e96e69144192aaaf5e1cef3f3b2c567ff5f07365c515ddf8fa5e77a44b9873d
+    name: ImageMagickDll/IM_MOD_RL_vips_.dll
+    size: 23040
+  -
+    hash: 121a446f58dbabe2a78dddc641b534dd3665109db857dd38104c1709aea964dd
+    name: ImageMagickDll/IM_MOD_RL_wbmp_.dll
+    size: 16896
+  -
+    hash: 391c40c800818e3d1d8c3269df34e25ae9417bd3603a54dbf7cb3b93e2634f11
+    name: ImageMagickDll/IM_MOD_RL_webp_.dll
+    size: 22016
+  -
+    hash: b690a31aa72fd7166788b83e421f458e9fdf75257c3b152a7353df5e34954a9e
+    name: ImageMagickDll/IM_MOD_RL_wpg_.dll
+    size: 29696
+  -
+    hash: f821c680f765d0cdff3a9e972b58eb769d23374c73e8534f66c814e8e8e2ccea
+    name: ImageMagickDll/IM_MOD_RL_xbm_.dll
+    size: 18944
+  -
+    hash: 9f21ed61c3f7b40e3b092d00dc64d40614956cce728c5e5baf51a653f463124b
+    name: ImageMagickDll/IM_MOD_RL_xcf_.dll
+    size: 24064
+  -
+    hash: 534e6af62601850906dce2ac7b963d020e86ecc7863154310307c400216e70a5
+    name: ImageMagickDll/IM_MOD_RL_xc_.dll
+    size: 14848
+  -
+    hash: b5414194370a4e0e6a6906c429fdb1815ea76384c64c20fb488fa5129e7cc4bc
+    name: ImageMagickDll/IM_MOD_RL_xpm_.dll
+    size: 25088
+  -
+    hash: 6f68d1341ff3c89ba3ac265c9122922388d6d310a781824306de75f2b5bccd37
+    name: ImageMagickDll/IM_MOD_RL_xps_.dll
+    size: 17920
+  -
+    hash: 5fe920b1552e971cbcded5b27a654f9add7e686587e91ea910041283591632ca
+    name: ImageMagickDll/IM_MOD_RL_xtrn_.dll
+    size: 15360
+  -
+    hash: aa2a116d8a31196d30291f26e2fb069f7fa10554701bce50deed419b59eaf072
+    name: ImageMagickDll/IM_MOD_RL_ycbcr_.dll
+    size: 25600
+  -
+    hash: 10ca5da7b4ab813c6b2ae4457927ca3c997c99b555aedc1b1f32c2bbe0b67b66
+    name: ImageMagickDll/IM_MOD_RL_yuv_.dll
+    size: 22528
+  -
+    hash: 36313f20d4d818eab1c48c87e549f2aa1c77c2f59bbbbf2550e83dfc9595edec
+    name: ImageMagickDll/locale.xml
+    size: 2401
+  -
+    hash: 89753fc15678c6fec3fe591cc2194752be3b11335a693bb1124e554eca1609b9
+    name: ImageMagickDll/log.xml
+    size: 956
+  -
+    hash: 308f157b111eb7084d44d040b1fb7980fbe9c083897fa40260143b97c1630f58
+    name: ImageMagickDll/magick.exe
+    size: 39936
+  -
+    hash: 12c0a425ea567e5d3d17fe1376f48e6b5a372f00b4acca17a7a262c264235dc5
+    name: ImageMagickDll/NOTICE
+    size: 57087
+  -
+    hash: 62f762aeb8a1ca8d3be8d3dfbf77e56399a5b42110a6f939971097b2a4138d7a
+    name: ImageMagickDll/policy.xml
+    size: 3157
+  -
+    hash: 83174717332326ddc198d9df188a4daec27b8979ba152cebbfc470c793d0bb11
+    name: ImageMagickDll/sRGB.icc
+    size: 60960
+  -
+    hash: 793fa5347285e56cd1591f10a3f0655531465fff5979c7f800bf3d4edbe57b3b
+    name: ImageMagickDll/thresholds.xml
+    size: 11302
+  -
+    hash: 550fc5aafb156a5c3634e7e595c1860b0f892d4c8c84bb9f04a2a352546fcae5
+    name: ImageMagickDll/type-ghostscript.xml
+    size: 9415
+  -
+    hash: 987d4a57d2c48d7bdfc8390b729cbee6312c38bf0abccab3d43984e9aad0fb0e
+    name: ImageMagickDll/type.xml
+    size: 670
+  -
+    hash: ae710d6670d922fbbf0adcbec743fe75e572cf21cf7579faf5f347a606c37cbb
+    name: ImageMagickDll/vcomp120.dll
+    size: 137376
+  -
+    hash: 8c26da60f5f8e3b7e3f945784973cd7e4720c7c56b8dc753e8776eb5c1f7b8a4
+    name: ImageMagickDll/X11.dll
+    size: 729088
+  -
+    hash: 3b703dbc035db435aa109a143376a9b6cc3d9dff89a75af116d4bec8938bf4e8
+    name: ImageMagickDll/Xext.dll
+    size: 53248
+  -
+    hash: 7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2
+    name: tessdata/eng.traineddata
+    size: 4113088
+  -
+    hash: c5477542772cb7ef517461d456f50b00a9f6244fda735beae8548e7c763d467c
+    name: tessdata/eng.user-patterns
+    size: 35
+  -
+    hash: 51092dbdc346d684af477879c0c3794731840c973bf0232f278a00d4587f2e77
+    name: tessdata/eng.user-words
+    size: 32
+  -
+    hash: 7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2
+    name: tessdata/eng_orig.traineddata
+    size: 4113088
+  -
+    hash: 88b955a0df57880a26a74708bc34f74dcaf8ebf4e78843a28b50eae945732b06
+    name: tessdata/jaxb-api-2.3.1.jar
+    size: 128076
+  -
+    hash: 4b2dc1f55b7b457c181d8ab3c2d34225f6eefac0b018d6e9abdd775a0eb29db6
+    name: tessdata/pdf.ttf
+    size: 102076
+  -
+    hash: bfd1fc5e3f4e2068f92077c125ef5d9e193f3866b413d4abafa9747bae863bca
+    name: tessdata/piccolo2d-core-3.0.jar
+    size: 124090
+  -
+    hash: b9201998151392faa2ef29d6bcf038ebe293217bb08104f0e18bc57dd154fa38
+    name: tessdata/piccolo2d-extras-3.0.jar
+    size: 148776
+  -
+    hash: abd0c6c84dcc202c19bcaad1ef9cc323d0dca7513470ee8ec195cc01cbce37cf
+    name: tessdata/ScrollView.jar
+    size: 26078
+  -
+    hash: 9cb7a5da613177c894eeff97c3891c7b3ebe0080375a14b51bb2b12db115a74c
+    name: tessdata/configs/alto
+    size: 24
+  -
+    hash: eba51051707cdbe99515fd4e557a29728174983575b8d77553df5120ab5ccbdd
+    name: tessdata/configs/ambigs.train
+    size: 153
+  -
+    hash: 02971208303f55e147bb5a455e9156806b99ef7e8ca36ace2f190d74b4691fb3
+    name: tessdata/configs/api_config
+    size: 27
+  -
+    hash: b1f9b7e5c7595af1fde2c0063c6d94bbe72ec5105d40e7c2a67f10cdcf01195e
+    name: tessdata/configs/bigram
+    size: 134
+  -
+    hash: b34da7c5f00e2d2e8e800a5d3af599d87889febf8e07ee77b724c86c4c22e14f
+    name: tessdata/configs/box.train
+    size: 323
+  -
+    hash: 0158084d234db00a2b0326f0ed21e15367026eecaa381998db3127c641c09516
+    name: tessdata/configs/box.train.stderr
+    size: 324
+  -
+    hash: 3d8f4f2274e4489d627d6791c3a83d959617d5e63f72af23d43086ad3a4b7030
+    name: tessdata/configs/digits
+    size: 38
+  -
+    hash: f1a1bd6bb43ed71531db20cad17d5b94c9977ce6f55f03323c4859d1566a477b
+    name: tessdata/configs/get.images
+    size: 25
+  -
+    hash: acc5a54f11a92d84215ba558df3b3598ec1afeaf2756d8ce5fe398e7299976eb
+    name: tessdata/configs/hocr
+    size: 42
+  -
+    hash: edc5afc0e8a64644f1769667c6f161e10e5f6cc95803a0fcc5105c9b278c3d87
+    name: tessdata/configs/inter
+    size: 61
+  -
+    hash: c499f0cb650735e2e6b487458d3c209a448f7715a432d700cfbc7abaf31c8b4c
+    name: tessdata/configs/kannada
+    size: 105
+  -
+    hash: 1cf9314ff5d29232091877194847ef7f04a485bbec6aea3af15dcb03f638a1f5
+    name: tessdata/configs/linebox
+    size: 72
+  -
+    hash: 541604c332624d56f22914917f12c29b74ae0b04950602be6c9ab551b6d5fb9c
+    name: tessdata/configs/logfile
+    size: 26
+  -
+    hash: 4958555ffca8a1501b5b0bdb4ce9bfc40b1bb5d7fc606056dad4fb72626efbba
+    name: tessdata/configs/lstm.train
+    size: 293
+  -
+    hash: b2bcbc9d9b4642ae7f10f6b23c2a117400acbf6b8dc618e8bcbb29ef2f22fa41
+    name: tessdata/configs/lstmbox
+    size: 27
+  -
+    hash: 9ce5ffeb41b674b9bc3a8ad3f37e5e4bad3e447852d80b661a5e7b49f516c2dd
+    name: tessdata/configs/lstmdebug
+    size: 102
+  -
+    hash: 4c04f00353769fb15eaebc56c649cc6be5a1695877f63c360d5582d352748ae2
+    name: tessdata/configs/makebox
+    size: 27
+  -
+    hash: 88630f865cdaa38ce52ad1688f51ed55596f125f85536ec29b1b11fed721545b
+    name: tessdata/configs/pdf
+    size: 23
+  -
+    hash: fa4709bd13bd7a15f3eee98d04a78e7b69b2a72a2047c312063a395ca4328cd4
+    name: tessdata/configs/quiet
+    size: 22
+  -
+    hash: f06b6fee88e97fbefafcac6deaa15df0c186d4e65364c65a3f014ad5d4f51a3d
+    name: tessdata/configs/rebox
+    size: 67
+  -
+    hash: eda2151d6f0eb80b4567fb90cbe9a9605c87cd50c442f66c70a9a2c182911cd5
+    name: tessdata/configs/strokewidth
+    size: 389
+  -
+    hash: 2d5ea1506d22f4e85bd5b7bdd4d9dc4d58257b35b7447149742c7a471d5f57a0
+    name: tessdata/configs/tsv
+    size: 23
+  -
+    hash: 0f274289700d8478f173e3c70417807140eed7adf3362bd21af3545b196219e1
+    name: tessdata/configs/txt
+    size: 169
+  -
+    hash: 600e8b8ef4f27ff0b514806a595f2da1b06e42e0cdcf3a71e5d193fbcd0726da
+    name: tessdata/configs/unlv
+    size: 47
+  -
+    hash: eb7e8a5764708f953298e5e4e57fbe3b09640cf7bc1aa7dcbdfe938e8fbad7bb
+    name: tessdata/configs/wordstrbox
+    size: 30
+  -
+    hash: 45570b43b2be9076d65f1fd6e66f3ddcce22606639ac1a018c96cbc3b0fef429
+    name: tessdata/tessconfigs/batch
+    size: 50
+  -
+    hash: c7672271d9911d5ff9bb8c6a5b491a0ac5b08d7a32fab67f3f88061e663ecd12
+    name: tessdata/tessconfigs/batch.nochop
+    size: 39
+  -
+    hash: f9307ed7fe364d838db651d970b3344a722f916a758b7d8fb0f097f6220fbf15
+    name: tessdata/tessconfigs/matdemo
+    size: 250
+  -
+    hash: 8b140205986b89509eda494f8d2bfe6f93531e16f5a2bd30d74642cf6665eda1
+    name: tessdata/tessconfigs/msdemo
+    size: 380
+  -
+    hash: 7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6
+    name: tessdata/tessconfigs/nobatch
+    size: 2
+  -
+    hash: 00ae4cb269c63b5261e669649dc21ad6b9ba28e9408dcb0c156ffae23054c9b2
+    name: tessdata/tessconfigs/segdemo
+    size: 304
+package_version: 2.4.0-1593006445
+update_method: archive
+...
+---
+signature: 474fedcf358a386dcd1540456613f2afa0dd39ce71317ccc27dbe78adb9b0525a44ad22de3082e4cadf21213cbfbeb8f1a5988ad8cd6f02f06284404b8a997e77afb8860f60b0fea9e60ad4acc6588176fd9da79973c7af13ef80b427f06c025afc1042a4d49e692469883d1a4952d4e0591d20b66a57c2cdbe1eedf30a493385fb2e4a9b51aeaec2f7a8881f058cf1d232270aec4235c394c8db2bcc48fc124031851287cc941502bca6eabc62fac8da40ec67978073652845848aa8c3f967b2a7c1c52d36f99d140537240cde2a9e753fdb78a5f975a2afaaf12199f115d14def3d6c4cf39e21a96b2a66baaa89967ef0128001ef95bb0198a5f91fd29b6a356eb471d295ed27341f762aee2a1ded6a4972c2d30f943e9a9141b5d9241440ac60596625dce78dfc0005043a6dcbe78415c4b0527f8fe476b2818a5a6d21eb7cfffc14250bd81063cfa3963ec031b42e929b13867bc0c8b6c9c77a089e9b52ded8e0cdb43502ac5884089f9f3624b44dcdeb09471adebac7049fc877637a49d3f88124b5ef7f14401f96d27e429b9dec79664420bf04465a558eb84d9968e0bfb649a5e9b7983f27ee4ad3a40798211a173a8b8c75d98e938f47f35aa62d661a7d65878e133c324b6facf6ce561dd364f82a6726a682a202ba3f702eff449d7a818a3127dc61853fd47d41d99da38b89acaebf950c886d5b7ab6e7e75885cbc
+...
